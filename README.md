@@ -11,6 +11,10 @@ Use `jupyter.sh $HOSTNAME` to open an SSH tunnel to the server, automatically co
 
 The jupyter notebook server is run in a tmux session, so if you need to kill it, refer to the tmux documentation to do that.
 
+## Authors
+
+These scripts were thrown together by Jose Marques and Markus Pfeiffer.
+
 ## LICENSE
 
 These scripts are free software; you can redistribute it and/or modify it under the terms of the BSD 3-clause license.
